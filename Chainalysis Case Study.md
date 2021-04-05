@@ -4,7 +4,7 @@
 
 * Name of company: 
 
-    Chainalysis
+    Chainalysis (www.chainalysis.com)
 
 * When was the company incorporated? 
 
@@ -44,14 +44,13 @@ What solution does this company offer that their competitors do not or cannot of
 
     Chainalysis do not openly disclose their tech stack or business processes to monitor, investigate and report on blockchain transactions. However, they have developed their own software platforms and part of their professional services and training which is available for their customers and those interested.
 
-    Chainalysis Reactor Platform Example:
-    ![Chainalysis Reactor Image](Chainalysis%20Reactor%20Image.jpg)
-
     Platforms implemented include:
     Chainalysis KYT - 'Know Your Transaction' combines industry-leading blockchain intelligence, an easy-to-use interface, and a real-time API to reduce manual workflows while helping cryptocurrency businesses comply with local and global regulations.
     Chainalysis Reactor - Explore. Investigate. Take Action. Reactor is the investigation software that connects cryptocurrency transactions to real-world entities, enabling you to combat criminal activity on the blockchain.
     Chainalysis Kryptos - Vet new opportunities and navigate risks in cryptocurrency. See complete profiles of cryptocurrency businesses based on the industry's most trusted blockchain data.
 
+    Chainalysis Reactor Platform Example:
+    ![Chainalysis Reactor Image](Chainalysis%20Reactor%20Image.jpg)
 
 ## Landscape
 
