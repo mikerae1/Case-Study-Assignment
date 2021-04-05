@@ -23,17 +23,26 @@
    
     They have been through 8 VC funding rounds worth a total $267M. 
     27 March 2021 they closed their most recent funding round at $100M.
-    The company is now valued at $2B (USD).
+    The company is now valued at $2B (USD) with 233 employees and growing.
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
 
+    Building trust in blockchains.
+    Chainalysis mission is to create transparency for a global economy built on blockchains, enabling banks, business, and governments to have a common understanding of how people use cryptocurrency.
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+    The intended customer are all users of blockchain including financial services, businesses and governments to have a clearer view and trust of transactions going through the blockchain in order to create a more stable blockchain economy and reduce risks associated with blockchain and crytoassets.
+    As the number of crytoassets in the market and transactions grows, the market size and opportunity grows. If banks, governements and large enterprise businesses for example were to increase their use of blockchain there would be more interest in ensuring risks are reduced and there was adequate trust and transparency in the system.
+
+    Having expertise from earlier in the blockchain timeline (2014) and involvement in high profile cases such as Mt Gox gives strong credability to Chainalysis. The team has been refining their tools and processes on blockchain analysis for a number of years now which gives a strong competitive advantage.
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+    
 
 ## Landscape:
 
@@ -68,3 +77,6 @@ What solution does this company offer that their competitors do not or cannot of
 Addendum / References
 1. https://crypto.marketswiki.com/index.php?title=Chainalysis
 2. https://www.chainalysis.com/
+3. https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/
+4. https://www.chainalysis.com/chainalysis-reactor/
+
