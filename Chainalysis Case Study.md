@@ -50,7 +50,7 @@ What solution does this company offer that their competitors do not or cannot of
     Chainalysis Kryptos - Vet new opportunities and navigate risks in cryptocurrency. See complete profiles of cryptocurrency businesses based on the industry's most trusted blockchain data.
 
     Chainalysis Reactor Platform Example:
-    ![Chainalysis Reactor Image](Chainalysis%20Reactor%20Image.jpg)
+    ![Chainalysis Reactor Image](Chainalysis%20Reactor%20Image.JPG)
 
 ## Landscape
 
