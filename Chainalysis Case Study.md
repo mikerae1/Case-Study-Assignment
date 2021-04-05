@@ -11,16 +11,19 @@
     Founded in 2014
 
 * Who are the founders of the company?
+    
     Michael Gronager, Co-founder, CEO; Jonathan Levin, Co-founder, COO; Jan Moller, Co-founder, CTO
 
 * How did the idea for the company (or project) come about?
-Chainalysis was founded in 2014 as the official investigators into the hack of Mt. Gox, then the world’s largest cryptocurrency exchange.
-Co-Founder and Chief Executive Officer, Michael Gronager, was inspired to start Chainalysis when he saw how the cryptocurrency space was struggling to become part of the financial system. He used his experience from managing big data projects for scientists and his crypto knowledge from the industry’s early days to develop the data platform that has become the foundation of Chainalysis products today. Prior to Chainalysis, Michael was COO and co-founder of the cryptocurrency exchange Kraken.
+
+    Chainalysis was founded in 2014 as the official investigators into the hack of Mt. Gox, then the world’s largest cryptocurrency exchange.
+    Co-Founder and Chief Executive Officer, Michael Gronager, was inspired to start Chainalysis when he saw how the cryptocurrency space was struggling to become part of the financial system. He used his experience from managing big data projects for scientists and his crypto knowledge from the industry’s early days to develop the data platform that has become the foundation of Chainalysis products today. Prior to Chainalysis, Michael was COO and co-founder of the cryptocurrency exchange Kraken.
 
 * How is the company funded? How much funding have they received?
-They have been through 8 VC funding rounds worth a total $267M. 
-27 March 2021 they closed their most recent funding round at $100M.
-The company is now valued at $2B (USD).
+   
+    They have been through 8 VC funding rounds worth a total $267M. 
+    27 March 2021 they closed their most recent funding round at $100M.
+    The company is now valued at $2B (USD).
 
 ## Business Activities:
 
