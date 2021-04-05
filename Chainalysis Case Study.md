@@ -8,10 +8,10 @@
 
 * When was the company incorporated? 
 
-Founded in 2014
+    Founded in 2014
 
 * Who are the founders of the company?
-Michael Gronager, Co-founder, CEO; Jonathan Levin, Co-founder, COO; Jan Moller, Co-founder, CTO
+    Michael Gronager, Co-founder, CEO; Jonathan Levin, Co-founder, COO; Jan Moller, Co-founder, CTO
 
 * How did the idea for the company (or project) come about?
 Chainalysis was founded in 2014 as the official investigators into the hack of Mt. Gox, then the world’s largest cryptocurrency exchange.
