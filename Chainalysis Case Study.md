@@ -1,6 +1,6 @@
 # REGTECH | CHAINALYSIS CASE STUDY
 
-## Overview and Origin:
+## Overview and Origin
 
 * Name of company: 
 
@@ -25,7 +25,7 @@
     27 March 2021 they closed their most recent funding round at $100M.
     The company is now valued at $2B (USD) with 233 employees and growing.
 
-## Business Activities:
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
 
@@ -40,11 +40,20 @@ What solution does this company offer that their competitors do not or cannot of
 
     Having expertise from earlier in the blockchain timeline (2014) and involvement in high profile cases such as Mt Gox gives strong credability to Chainalysis. The team has been refining their tools and processes on blockchain analysis for a number of years now which gives a strong competitive advantage.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them?
 
-    
+    Chainalysis do not openly disclose their tech stack or business processes to monitor, investigate and report on blockchain transactions. However, they have developed their own software platforms and part of their professional services and training which is available for their customers and those interested.
 
-## Landscape:
+    Chainalysis Reactor Platform Example:
+    ![Chainalysis Reactor Image](Chainalysis%20Reactor%20Image.jpg)
+
+    Platforms implemented include:
+    Chainalysis KYT - 'Know Your Transaction' combines industry-leading blockchain intelligence, an easy-to-use interface, and a real-time API to reduce manual workflows while helping cryptocurrency businesses comply with local and global regulations.
+    Chainalysis Reactor - Explore. Investigate. Take Action. Reactor is the investigation software that connects cryptocurrency transactions to real-world entities, enabling you to combat criminal activity on the blockchain.
+    Chainalysis Kryptos - Vet new opportunities and navigate risks in cryptocurrency. See complete profiles of cryptocurrency businesses based on the industry's most trusted blockchain data.
+
+
+## Landscape
 
 * What domain of the financial industry is the company in?
 
@@ -74,9 +83,11 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 
-Addendum / References
+## Addendum / References
 1. https://crypto.marketswiki.com/index.php?title=Chainalysis
 2. https://www.chainalysis.com/
 3. https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/
 4. https://www.chainalysis.com/chainalysis-reactor/
+5. 
+
 
