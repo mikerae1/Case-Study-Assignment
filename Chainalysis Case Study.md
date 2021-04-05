@@ -5,7 +5,7 @@
 
 * Name of company: 
 
-    Chainalysis (www.chainalysis.com)
+    Chainalysis *(www.chainalysis.com)*
 
 * When was the company incorporated? 
 
@@ -32,7 +32,7 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-    Building trust in blockchains.
+    ***Building trust in blockchains.***
     Chainalysis mission is to create transparency for a global economy built on blockchains, enabling banks, business, and governments to have a common understanding of how people use cryptocurrency.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
@@ -44,30 +44,30 @@ What solution does this company offer that their competitors do not or cannot of
 
     Having expertise from earlier in the blockchain timeline (2014) and involvement in high profile cases such as Mt Gox gives strong credability to Chainalysis. The team has been refining their tools and processes on blockchain analysis for a number of years now which gives a strong competitive advantage.
 
-    Data/ Risk Matrix Identifying Target Areas
+    *Data/ Risk Matrix Identifying Target Areas:*
     ![Data Image](Data.JPG)
 
 * Which technologies are they currently using, and how are they implementing them?
 
     Chainalysis do not openly disclose their tech stack or business processes to monitor, investigate and report on blockchain transactions. However, they have developed their own software platforms and part of their professional services and training which is available for their customers and those interested.
 
-    Platforms implemented include:
+    ### Platforms implemented include:
     
-    Chainalysis KYT - 'Know Your Transaction' combines industry-leading blockchain intelligence, an easy-to-use interface, and a real-time API to reduce manual workflows while helping cryptocurrency businesses comply with local and global regulations.
+    **Chainalysis KYT** - 'Know Your Transaction' combines industry-leading blockchain intelligence, an easy-to-use interface, and a real-time API to reduce manual workflows while helping cryptocurrency businesses comply with local and global regulations.
     
-    Chainalysis Reactor - Explore. Investigate. Take Action. Reactor is the investigation software that connects cryptocurrency transactions to real-world entities, enabling you to combat criminal activity on the blockchain.
+    **Chainalysis Reactor** - Explore. Investigate. Take Action. Reactor is the investigation software that connects cryptocurrency transactions to real-world entities, enabling you to combat criminal activity on the blockchain.
     
-    Chainalysis Kryptos - Vet new opportunities and navigate risks in cryptocurrency. See complete profiles of cryptocurrency businesses based on the industry's most trusted blockchain data.
+    **Chainalysis Kryptos** - Vet new opportunities and navigate risks in cryptocurrency. See complete profiles of cryptocurrency businesses based on the industry's most trusted blockchain data.
 
     Chainalysis Examples:
 
-    KYT Platform
+    *KYT Platform:*
     ![KYT](KYT.JPG)
 
-    Reactor Platform
+    *Reactor Platform:*
     ![Chainalysis Reactor Image](Chainalysis%20Reactor%20Image.JPG)
 
-    Kryptos Platform
+    *Kryptos Platform:*
     ![Kryptos Image](Kryptos%20Image.JPG)
 
 
