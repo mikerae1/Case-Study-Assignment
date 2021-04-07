@@ -79,54 +79,84 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-    ......
+    Increased regulatory demands -
+    Since the economic crisis the huge increase in regulation throughout the financial services industry has lead to a drive for operational efficiency and better cost management. Regulators are demanding more advanced governance and data management, as well as enhanced reporting and operational processes.
+
+    RegTech Partnerships - 
+    Established fund managers and banks are becoming open to partnering with new and growing RegTech startups, in order to address their key operational and compliance challenges. Areas of financial services which are more easily adopting FinTech and RegTech solutions including payments, operations and governance. RegTech solutions can provide greater confidence in meeting an organisations broad governance requirements for risk and compliance.
+    
+    Lower RegTech barriers to entry - 
+    Most RegTech technology is SaaS/Cloud based meaning startups can offer scalable, cost-efficient, secure compliance solutions. This means that the barrier to entry for RegTech companies is lower now than at any time in the past. Customised software tools can easily track the large multiple of regulatory obligations that face most financial services and asset management companies.
+    
+    Regulator Engagement - 
+    Most of the world’s global financial regulators are playing catch-up to the emergence of new regulatory technologies. A number of key regulators are making RegTech a central focus of their innovation strategy.
+    An examople is the new FCA regulatory “Sandbox” in the UK will allow eligible firms to test new solutions. These companies do not have to satisfy all regulatory requirements immediately but can test their solutions over a number of months gaining valuable experience and feedback.
+    Regulators in the UK and Australia have agreed to refer innovative RegTech businesses to each other, as well as sharing information on emerging market trends and their impact on regulation.
+    The growth in future RegTech opportunities will likely accelerate as dominant market players begin to adopt innovative regulatory and compliance solutions.
+
+    Cost of compliance (and non-compliance) -
+    This is well-documented in the financial sector: firms reportedly spend about 4% of their revenue complying with regulations, and banks for instance, paid $320bn in fines from 2007 to 2016.
+    
+    Pace of regulatory change and fragmentation -
+    In the case of the financial services sector has accelerated in the aftermath of the Global Financial Crisis (GFC). Thomson Reuters, for example, recorded 56,300 regulatory updates globally in 2017, up from just 8,700 in 2008 and 17,800 in 2012.
+    
+    This combination of pressures on both industry and regulators drives a strong demand for technology-enabled compliance and oversight solutions.
 
 * What are the other major companies in this domain?
-    1. Chainalysis
-    2. ComplyAdvantage
-    3. Ascent Regtech
-    4. Forter
-    5. Hummingbird
-    6. Continuity
-    7. Trunomi
-    8. Ayasdi
-    9. IdentiyMind
-    10. Sift Science
-    11. Elliptic
-    12. BehavioSec
+    1. Elliptic
+    2. Ascent Regtech
+    3. Forter
+    4. Hummingbird
+    5. Continuity
+    6. Trunomi
+    7. Ayasdi
+    8. IdentiyMind
+    9. Sift Science
+    10. ComplyAdvantage
+    11. BehavioSec
 
 ## Results
 
 * What has been the business impact of this company so far?
 
-    Mt Gox example...
+    Chainalysis was the main transaction investigation arm of the Mt Gox BTC theft and in 2017 claims to have traced up to $1.7B of the 'lost' BTC.
+
+    60+ countries with Chainalysis users, spanning government agencies and private sector businesses.
+
+    Over 100 digital assets supported across 10 native blockchains, encompassing 90% of cryptocurrency economic activity.
+
+    375 organizations and counting rely on Chainalysis to make cryptocurrency safer for everyone.
+
+    Chainalysis has helped many companies minimise their regulatory risk, investigate fraud/ transactions and build trust blockchain.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-    .....
+    Looking at the market capitalisation which has now grown to over $2B (USD), 233 staff and a large number of open roles Chainalysis is doing very well. 
+
+    Core metrics may include areas such as transaction tracing success rate, 'lost' crytocurrency recovery rate, number of clients or number of investigations to name a few potential areas.
 
 * How is this company performing relative to competitors in the same domain?
 
-    ....
+    Chainalysis is one of the first in blockchain transaction monitoring and looks to be by far the largest in the Blockchain RegTech space. A number of the competitors are more traditionally focussed on AML and Regulatory Compliance vs Blockchain specific detailed transaction analysis services.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer?
 
-    ....
+    AML Transaction Monitoring - with the experience in transaction analysis and investigations a natural opportunity would be to move into the AML space including KYC, Transaction Monitoring and Watchlist Screening.
 
 * Why do you think that offering this product or service would benefit the company?
 
-    ....
+    Chainalysis has the experience and there is increasing regulatory pressure (and fines, note the Royal Commission and Westpac/ NAB) on companies to ensure adequate risk/ compliances systems are in place.
 
 * What technologies would this additional product or service utilize?
 
-    ....
+    This could be a partnership with an existing Crypto AML company or building and additional platform using current tech stacks i.e. AWS/ Azure or ideally utilising the blockchain protocol itself.
 
 * Why are these technologies appropriate for your solution?
 
-    ....
+    AWS/ Azure are 'best of breed' and have a lot of open source integration opportunities. Blockchain although a much newer technology has the potential to ensure a robust tracable ledger of information.
 
 
 ## Addendum / References
@@ -139,6 +169,11 @@ What solution does this company offer that their competitors do not or cannot of
 7. https://builtin.com/fintech/regtech-companies
 8. https://go.chainalysis.com/rs/503-FAP-074/images/Chainalysis-Crypto-Crime-2021.pdf
 9. https://blog.chainalysis.com/
-10. 
+10. https://regtech.org.au/resources/Documents/2019-ccaf-global-regtech-benchmarking-report.pdf
+11. https://news.bitcoin.com/chainalysis-says-theyve-found-the-missing-1-7-billion-dollar-mt-gox-bitcoins/
+12. https://geckogovernance.medium.com/regtech-5-key-drivers-of-global-innovation-7cd366e36a26
+13. https://www.weforum.org/organizations/chainalysis
+14. https://www.planetcompliance.com/the-application-of-blockchain-technology-in-the-regtech-sector/
+
 
 
