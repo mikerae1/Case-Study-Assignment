@@ -152,6 +152,14 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What technologies would this additional product or service utilize?
 
+    The industry has experienced an increase in regulations and reporting requirements, which has resulted in the entrance of various technologies and solutions in the market. 
+
+    • Report automation platforms
+    • Visual analytics
+    • Robotic process automation
+    • Next-generation data architecture
+    • Business process management
+    
     This could be a partnership with an existing Crypto AML company or building and additional platform using current tech stacks i.e. AWS/ Azure or ideally utilising the blockchain protocol itself.
 
 * Why are these technologies appropriate for your solution?
